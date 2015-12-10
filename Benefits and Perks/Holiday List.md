@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# KitSplit Observed Holiday List
 
 <table>
   <tr>
