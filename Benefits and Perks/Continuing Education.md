@@ -1,6 +1,6 @@
 # Continuing Education
 
-One of our core values is “Be better today than yesterday,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at Clef, and are central to our company culture.
+One of our core values is “Be better today than yesterday,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at KitSplit, and are central to our company culture.
 
 ## Learning Budget
 
@@ -14,6 +14,6 @@ KitSplit understands the value of mentorship.  We will work with every employee 
 
 ## Speaker Support
 
-It makes KitSplit look great when our employees speak at industry conferences, so we love to support KitSplit employees who are invited to speak to their peers about their area of expertise. For each event, Clef will pay for the flights and hotel up to $500 dollars, and employees are each eligible for this benefit 4 times per year (this budget is separate from the learning budget). Employees should get approval from the founder they report to about which conferences are appropriate to speak at, and to make sure that conference dates don’t interfere with important company dates.
+It makes KitSplit look great when our employees speak at industry conferences, so we love to support KitSplit employees who are invited to speak to their peers about their area of expertise. For each event, KitSplit will pay for the flights and hotel up to $500 dollars, and employees are each eligible for this benefit 4 times per year (this budget is separate from the learning budget). Employees should get approval from the founder they report to about which conferences are appropriate to speak at, and to make sure that conference dates don’t interfere with important company dates.
 
 Speaker support will be limited to two event during the first year of implementation and for employees joining the company after the month of May in the calendar year.
