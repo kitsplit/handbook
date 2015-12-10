@@ -4,7 +4,7 @@ KitSplit's priorities with benefits are wellness and education, so it’s import
 
 We offer medical, dental, and vision coverage for KitSplit employees. 
 
-The medical plan is with Aetna. All employees are eligible for coverage on the first of the month following their hire date. These policies are all managed through Justowrks, which is where you can find more details about the plans and their coverage. We cover 100% of the basic Aetna/Justworks plan ($500/month). If you want to opt in to another plan you can do so and pay the differience in premium. The most expensive plan offered is $611/month so at most you would pay $111/month (less than 15% of the overall premium). 
+The medical plan is with Aetna. All employees are eligible for coverage on the first of the month following their hire date. These policies are all managed through Justworks, which is where you can find more details about the plans and their coverage. We cover 100% of the basic Aetna/Justworks plan ($500/month). If you want to opt in to another plan you can do so and pay the differience in premium. (The most expensive plan offered is $611/month so at most you would pay $111/month, less than 15% of the overall premium.) 
 
-For dental and vision, KitSplit covers 50%.
+For dental and vision plans, KitSplit covers 50%. You can choose to opt in or out of these plans. More details are available in Justworks. 
 
