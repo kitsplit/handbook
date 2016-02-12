@@ -10,14 +10,6 @@
     <td>January 19</td>
   </tr>
   <tr>
-    <td>President’s Day</td>
-    <td>February 16</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
-  </tr>
-  <tr>
     <td>Memorial Day</td>
     <td>Last Monday in May</td>
   </tr>
@@ -28,14 +20,6 @@
   <tr>
     <td>Labor Day</td>
     <td>First Monday in September</td>
-  </tr>
-  <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
-  </tr>
-  <tr>
-    <td>Veterans Day</td>
-    <td>November 11</td>
   </tr>
   <tr>
     <td>Thanksgiving Day and Friday</td>
