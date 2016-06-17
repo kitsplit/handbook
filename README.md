@@ -1,12 +1,13 @@
 # KitSplit Handbook
 
-This is KitSplit's employee handbook—it's currently a work in progress. It is inspired by, and borrows heavily from, Clef's open-sourced emlpoyee handbook. Feedback and comments welcome. 
+This is KitSplit's employee handbook—it's currently a work in progress. It is inspired by, and borrows heavily from, Clef's open-sourced employee handbook. Feedback and comments are welcome. 
 
 Best,
 Kristina Budelis, Lisbeth Kaufman, and Ken Amarit
+
 Cofounders of KitSplit
 
-Here is their original comment explaining Clef's original handbook: 
+Here is Clef's original comment explaining their handbook: 
 
 "At Clef we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
 
