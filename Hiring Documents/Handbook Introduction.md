@@ -15,7 +15,6 @@ As a small company, we anticipate changes will be made to this handbook in the f
 
 _____________________________
 
-B Byrne
-
-CEO of Clef
+Kristina Budelis, Lisbeth Kaufman, and Ken Amarit
+Cofounders of KitSplit
 ```
