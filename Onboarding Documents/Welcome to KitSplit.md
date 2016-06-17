@@ -6,7 +6,7 @@ At KitSplit, we’re trying to build an inclusive and value-driven organization.
 
 ## Your First Day
 
-Hopefully by the time you’re actually starting at KitSplit, you’ve already finished filling out the paperwork and you’ve showed up to a desk with a new computer and the accessories that fit your work-style. Today is all about getting you set up and making sure you’re ready to go.
+Hopefully by the time you’re actually starting at KitSplit, you’ve already finished filling out the paperwork. Today is all about getting you set up and making sure you’re ready to go.
 
 **The goal for today is for you to publish _something_ live.** If you’re a designer, that could be a color change for a button. If you’re a developer, it might be fixing a missing semicolon. It could be a tweet from the KitSplit account or a blog post, a support response or an infographic. Whatever you’ll be doing at KitSplit, we want you to ship something small today.
 
