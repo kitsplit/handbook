@@ -6,4 +6,4 @@ Employees also accrue 1 hour of sick leave for every 30 hours of work, but canno
 
 Employees should report vacation and sick days to the founder they report to and also mark it in Justworks. 
 
-Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, disability leave and/or other support.
+Employees with chronic or terminal illnesses or other health issues requiring more than 5 days of sick leave should talk with the founder they report to about their needs for remote work, flexible time, disability leave and/or other support.
