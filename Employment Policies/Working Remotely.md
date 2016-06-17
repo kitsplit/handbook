@@ -6,4 +6,4 @@ Every employee is an important contributor to the decisions we make and the work
 
 KitSplit fulltime employees may choose to work from home 1 days a week (or the equivalent, ie two half days) if it does not otherwise disrupt work (ie missing in-person meetings). If you plan to work from home let everyone know with good lead time what day or half day it will be. 
 
-Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, and other support.
+Employees with chronic or terminal illnesses or other personal issues requiring remote work should talk with the founder they report to about their needs for remote work, flexible time, and other support.
