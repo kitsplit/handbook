@@ -1,10 +1,9 @@
 # KitSplit Handbook
 
-This is KitSplit's employee handbook—it's currently a work in progress. It is inspired by, and borrows heavily from, Clef's open-sourced employee handbook. Feedback and comments are welcome. 
+This is KitSplit's employee handbook. It is inspired by, and borrows heavily from, Clef's open-sourced employee handbook. Feedback and comments are welcome. 
 
 Best,
 Kristina Budelis, Lisbeth Kaufman, and Ken Amarit
-
 Cofounders of KitSplit
 
 Here is Clef's original comment explaining their handbook: 
