@@ -4,17 +4,17 @@
 
 This policy addresses full-time employees based in NYC. It does not address part-time employees, some of whom are not based in NYC. Currently, we do not have any full-time workers who are not based in NYC, but if and when the current company setup changes, we will address that situation accordingly. 
 
-# Policy
+# Policy & Background
 
-As a small team, things move very quickly and decisions are made or reversed as new information helps guide us. This can make it difficult to keep up with company progress for those who aren't in the office participating in all the conversations that are going on. As a result, for those based in NYC where our main office is, we put a high premium on physical colocation.
+As a small team, things move very quickly and decisions are made or reversed as new information helps guide us. This can make it difficult to keep up with company progress for those who aren't in the office participating in the conversations that are going on. As a result, for those based in NYC where our main office is, we put a high premium on physical colocation.
 
 Every employee is an important contributor to the decisions we make and the work we do as a team, so we expect full-time NYC-based employees to be at the KitSplit office at least 3-4 days a week, and to be punctual for team meetings. If employees have a consideration which requires them to be out of the office, they should get approval from the founder they report to as far in advance as possible, and at least a full day before the absence.
 
-KitSplit fulltime employees may choose to work from home 1-2 days a week (or the equivalent, ie two half days) if it does not otherwise disrupt work (ie missing in-person meetings). If you plan to work from home let everyone know with good lead time what day or half day it will be. If an employee needs, or would like to work more than 1-2 days a week remotely (either on a specific week, or as a more regular occurance) they should discuss it with, and get approval from, the founder to whom they report. 
+KitSplit fulltime employees may choose to work from home 1-2 days a week if it does not otherwise disrupt work (ie missing in-person meetings). If you plan to work from home let everyone know with good lead time what day or half day it will be amd check with your manager if you have any uncertainty. 
 
 In addition to the 1-2 days/week allowable remote work, you can also work 1 additional week/year remotely, but you must get prior approval from your manager; plan as far in advance as possible (at least 7 days, but preferably more); and update your calendar, and notify the entire team in advance via slack. 
 
-Employees with chronic or terminal illnesses or other personal issues requiring remote work should talk with the founder they report to about their needs for remote work, flexible time, and other support.
+Employees with chronic or terminal illnesses or other personal issues requiring additional remote work should talk with the founder they report to about their needs for remote work, flexible time, and other support.
 
 # Approach
 
@@ -26,7 +26,6 @@ When we work remotely, it's our responsibility to accept the benefits graciously
 
 -is not shorter than a day at the office
 -is not less productive
--is not an excuse for missing commitments (be they meetings or deadlines).
 -Even when we aren't in the office, our teammates are still counting on us and it is our responsibility to make sure we are exceeding their expectations.
 
 At the same time, it is the responsibility of workers in the office to reasonably accommodate remote workers. This means being willing to schedule meetings in light of timezone differences and to manage expectations around immediate feedback.
