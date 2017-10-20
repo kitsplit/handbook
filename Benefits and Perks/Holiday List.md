@@ -22,7 +22,7 @@
     <td>First Monday in September</td>
   </tr>
    <tr>
-    <td>Indigenous People's Day (elsewhere sometimes known as Columbus Day) </td>
+    <td>Indigenous People's Day</td>
     <td>Second Monday in October</td>
   </tr>
   <tr>
