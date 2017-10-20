@@ -40,4 +40,4 @@
 </table>
 
 
-If a holiday falls on a weekend, check Justworks to see when the holiday will be observed. Usually, if a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday. This info is also in Justworks.
+If a holiday falls on a weekend, check Justworks to see when the holiday will be observed. (Usually, if a holiday falls on a Saturday, we will observe it on the Friday before and if it falls on a Sunday, it will be observed on the following Monday.) 
