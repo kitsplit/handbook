@@ -1,10 +1,10 @@
-## Working Remotely ##
+# Working Remotely 
 
-# Scope 
+## Scope 
 
 This policy addresses full-time employees based in NYC. It does not address part-time employees, some of whom are not based in NYC. Currently, we do not have any full-time workers who are not based in NYC, but if and when the current company setup changes, we will address that situation accordingly. 
 
-# Policy & Background
+## Policy & Background
 
 As a small team, things move very quickly and decisions are made or reversed as new information helps guide us. This can make it difficult to keep up with company progress for those who aren't in the office participating in the conversations that are going on. As a result, for those based in NYC where our main office is, we put a high premium on physical colocation.
 
@@ -16,7 +16,7 @@ In addition to the 1-2 days/week allowable remote work, you can also work 1 addi
 
 Employees with chronic or terminal illnesses or other personal issues requiring additional remote work should talk with the founder they report to about their needs for remote work, flexible time, and other support.
 
-# Approach
+## Approach
 
 We treat working remotely as a privilege that comes with both benefits and costs.
 
@@ -24,9 +24,9 @@ The benefits are primarily ones of flexibility: as individuals, when we work rem
 
 When we work remotely, it's our responsibility to accept the benefits graciously, and go above and beyond to not let the costs affect our work or the work of our teammates. A remote workday:
 
--is not shorter than a day at the office
--is not less productive
--Even when we aren't in the office, our teammates are still counting on us and it is our responsibility to make sure we are exceeding their expectations.
+* is not shorter than a day at the office
+* is not less productive
+* Even when we aren't in the office, our teammates are still counting on us and it is our responsibility to make sure we are exceeding their expectations.
 
 At the same time, it is the responsibility of workers in the office to reasonably accommodate remote workers. This means being willing to schedule meetings in light of timezone differences and to manage expectations around immediate feedback.
 
@@ -34,11 +34,11 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 Always take the following steps to let the team know you're working remotely ahead of time:
 
--Post in #fulltime 
--Communicate verbally with the people you work closest with, especially your manager 
--Update your calendar to mark which days you are working remotely
+* Post in #fulltime 
+* Communicate verbally with the people you work closest with, especially your manager 
+* Update your calendar to mark which days you are working remotely
 
 
-# Loss of the privilege
+## Loss of the privilege
 
 Having the flexibility to work remotely is a privilege. If an employee's unable to uphold the responsibilities that go along with that privilege, their manager should work with them through their 1:1s and dedicated retrospectives to resolve the issue. If the employe cannot resolve the issue, their manager can revoke the privilege.
