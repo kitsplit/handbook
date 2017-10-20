@@ -6,7 +6,7 @@ We are pleased to have you join KitSplit Inc. (“KitSplit” or the “Company�
 
 Each employee is responsible for reading, understanding, and complying with this handbook.  Our goal is to provide you with a work environment that is constructive and supports both personal and professional growth.  
 
-As a small company, we anticipate changes will be made to this handbook in the future and reserve the right to amend, revise and/or withdraw the provisions set forth in the handbook.   
+As a small and relatively young company, we anticipate changes will be made to this handbook in the future and reserve the right to amend, revise and/or withdraw the provisions set forth in the handbook at any time.   
 
 ```
 
