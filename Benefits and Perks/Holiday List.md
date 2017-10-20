@@ -21,6 +21,10 @@
     <td>Labor Day</td>
     <td>First Monday in September</td>
   </tr>
+   <tr>
+    <td>Indigenous People's Day (elsewhere sometimes known as Columbus Day) </td>
+    <td>Second Monday in October</td>
+  </tr>
   <tr>
     <td>Thanksgiving Day and Friday</td>
     <td>Fourth Thursday in November and following Friday</td>
