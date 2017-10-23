@@ -23,7 +23,7 @@ For now, KitSplit operates as a single team where everyone is working towards co
 
 We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
 
-You should expect a typical workweek at KitSplit to be 45-55 hours. Most people come in around 10, leave around 7, and as needed, put in a few hours a week on night and weekends. We also occaisionally host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you. If you'd like to shift your hours earlier, let us know and we can work with you to do that. 
+You should expect a typical workweek at KitSplit to be 45-55 hours. Most people come in around 10, and leave around 7. We value decompressing and taking a break on nights and weekends, but as needed, we sometimes put in a few hours or more on nights and weekends to finish projects. We also occaisionally host or go to events at night. This is to give you a sense of what’s normal here, but you should work the hours that are healthy and sustainable for you. If you'd like to shift your hours earlier, let us know and we can work with you to do that. 
 
 We try to make the office atmosphere welcoming and respectful for people of all different backgrounds. This is an ongoing process of negotiating and compromising as we share space, and depends on good communication. If there are specific things you like or want to change, let us know. We’re always getting better :)
 
