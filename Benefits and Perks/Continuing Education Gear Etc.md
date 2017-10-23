@@ -26,7 +26,7 @@ Via Justworks, you can enroll in an HSA (Health Savings Account). At this time, 
 
 ## Supplemental Life Insurance 
 
-Via Justworks, you can enroll in a Supplemental Life Insurance plan. At this time, KitSplit does not contribute to such plans.
+Via Justworks, you can enroll in a Supplemental Life Insurance plan. At this time, KitSplit does not contribute to Supplemental Life Insurance plans.
 
 
 ## Voluntary Long-Term and Short-Term disability insurance 
