@@ -19,7 +19,7 @@ We want you to stick around. Your successes here will be your team’s successes
 
 ## The KitSplit Team, Hours, and Office
 
-For now, KitSplit operates as a single team where everyone is working towards company-level goals. Since we’re still small, there’s not too much overhead in keeping up with everyone. There are still engineering-specific meetings, and marketing conversations that happen separately. But when we set our goals, we all think directly about how we contribute to the company goals. You’ll get to work with everyone at KitSplit in some capacity, and dip your fingers into all different kinds of thinking.
+KitSplit operates as a single team where everyone is working towards company-level goals. Since we’re still small, there’s not too much overhead in keeping up with everyone. There are still engineering-specific meetings, and marketing conversations that happen separately. But when we set our goals, we all think directly about how we contribute to the company goals. You’ll get to work with everyone at KitSplit in some capacity, and dip your fingers into all different kinds of thinking.
 
 We believe that if you have too much on your plate, then you can only see what’s right in front of you. You need space and time to think about the future and plan ahead. If we give ourselves room to breathe and think and live, we’re capable of much broader thinking. To achieve that, we try to create a culture that’s not based on scarcity.
 
