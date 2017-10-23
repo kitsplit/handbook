@@ -5,7 +5,7 @@ Every employee has a company budget to support any learning activity that they w
 
 ## Transportation Benefits 
 
-Every employee has commuter benefits via WageWorks, where you can by train tickets, subway passes etc pre-tax and save a significant percentage on your transportation costs. Additionally, we offer free Citibike membership. See Justworks to enroll in in either or both of these benefits. 
+Every employee has commuter benefits via WageWorks: employees can use tax-free funds to pay for parking and public transportation such as train, subway, bus, ferry, trolley, or vanpool-as part of their daily commute to work, and save a significant percentage on your transportation costs. Additionally, we offer free Citibike membership. See Justworks to enroll in in either or both of these benefits. 
 
 ## Camera Gear Budget
 
