@@ -8,11 +8,11 @@ At KitSplit, we’re trying to build an inclusive and value-driven organization.
 
 Hopefully by the time you’re actually starting at KitSplit, you’ve already finished filling out the paperwork. Today is all about getting you set up and making sure you’re ready to go.
 
-**The goal for today is for you to publish _something_ live.** If you’re a designer, that could be a color change for a button. If you’re a developer, it might be fixing a missing semicolon. It could be a tweet from the KitSplit account or a blog post, a support response or an infographic. Whatever you’ll be doing at KitSplit, we want you to ship something small today.
+Take some time to meet everyone you’ll be working with, and set things up the way you like them. We'll also get you set up with some of the services we use, like Slack and Intercom. First days are hard and mostly we want you to be getting comfortable today.
 
-Otherwise, take some time to meet everyone you’ll be working with, and set things up the way you like them. We'll also get you set up with some of the services we use, like Slack and Intercom. First days are hard and mostly we want you to be getting comfortable today.
+We’ll also do a team meal today so that we have a little dedicated time to talk with everyone. If you have any food preferences or restrictions that we should consider in choosing a lunch spot, let us know.
 
-We’ll also do a team lunch today so that we have a little dedicated time to talk with everyone. If you have any food preferences or restrictions that we should consider in choosing a lunch spot, let us know.
+Also, brainstorm with your manager about something you can publish live! If you’re a designer, that could be a color change for a button. If you’re a developer, it might be fixing a missing semicolon. It could be a tweet from the KitSplit account or a blog post, a support response or an infographic. Whatever you’ll be doing at KitSplit, we'd love for you to ship something small today.
 
 We want you to stick around. Your successes here will be your team’s successes, and your team’s successes will be yours. We want you to build a career here, so don’t feel any pressure to cram everything into today -- you’ll have plenty of time to get things right.
 
