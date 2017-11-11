@@ -11,23 +11,25 @@ Every employee has commuter benefits via WageWorks: employees can use tax-free f
 
 Every employee has a company budget to support buying camera gear in the form of a one-time reimbursement up to $500. This can be used towards a camera of any kind; lenses; support (tripods, monopods, etc); lighting; VR gear; or audio gear. This expense should be discussed in one-on-ones and approved by the founder to whom the employee reports. After an expense is approved, submit an invoice to the founder to whom you report who will then reimbuse you via Justworks.
 
-## Mentorship
+## Access to Wellthy  
 
-KitSplit understands the value of mentorship.  Let us know if you would like us to work with you to find a mentor in your field outside of the company who you can regularly meet with and get advice. Mentorship goals will be discussed in one-on-ones. Employees are encouraged to meet with mentors in their field during normal work hours.  
+Wellthy is a modern healthcare concierge that supports caregivers taking care of sick and aging loved ones. We have access to Wellthy services through our associated with HearstLab. If you are interested in using Wellthy, contact the founder you report to to get set up. 
 
 ## Speaker Support
 
 It makes KitSplit look great when our employees speak at industry conferences, so we love to support KitSplit employees who are invited to speak to their peers about their area of expertise. Employees should get approval from the founder they report to about which conferences are appropriate to speak at, and to make sure that conference dates don’t interfere with important company dates.
 
+## Mentorship
+
+KitSplit understands the value of mentorship.  Let us know if you would like us to work with you to find a mentor in your field outside of the company who you can regularly meet with and get advice. Mentorship goals will be discussed in one-on-ones. Employees are encouraged to meet with mentors in their field during normal work hours.  
+
 ## HSA
 
 Via Justworks, you can enroll in an HSA (Health Savings Account). At this time, KitSplit does not contribute to the HSA. 
 
-
 ## Supplemental Life Insurance 
 
 Via Justworks, you can enroll in a Supplemental Life Insurance plan. At this time, KitSplit does not contribute to Supplemental Life Insurance plans.
-
 
 ## Voluntary Long-Term and Short-Term disability insurance 
 
